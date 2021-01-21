@@ -1,4 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Xanh+Mono&display=swap');
-nav, footer {
+#para, nav, footer,{
     font-family: 'Xanh Mono', monospace;
 } 
